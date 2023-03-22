@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/oc-react-app/static/css/main.073c9b0a.css",
-    "main.js": "/oc-react-app/static/js/main.3f67df65.js",
-    "static/js/787.1115a12a.chunk.js": "/oc-react-app/static/js/787.1115a12a.chunk.js",
-    "static/media/logo.svg": "/oc-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/oc-react-app/static/css/main.7e7bc2b3.css",
+    "main.js": "/oc-react-app/static/js/main.7e18c02c.js",
     "index.html": "/oc-react-app/index.html",
-    "main.073c9b0a.css.map": "/oc-react-app/static/css/main.073c9b0a.css.map",
-    "main.3f67df65.js.map": "/oc-react-app/static/js/main.3f67df65.js.map",
-    "787.1115a12a.chunk.js.map": "/oc-react-app/static/js/787.1115a12a.chunk.js.map"
+    "main.7e7bc2b3.css.map": "/oc-react-app/static/css/main.7e7bc2b3.css.map",
+    "main.7e18c02c.js.map": "/oc-react-app/static/js/main.7e18c02c.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3f67df65.js"
+    "static/css/main.7e7bc2b3.css",
+    "static/js/main.7e18c02c.js"
   ]
 }
